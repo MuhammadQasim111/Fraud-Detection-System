@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 <div align="center">
 
 # 🛡️ Sentinel Intelligence
@@ -123,4 +120,3 @@ Sentinel is built with performance and security at its core:
 <div align="center">
   <sub>Built with ❤️ for a safer financial future by the Sentinel AI Team.</sub>
 </div>
->>>>>>> 7042e93 (docs: premium README with Grok AI features)
