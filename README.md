@@ -20,8 +20,8 @@
 
 ## 📸 Platform Interface
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" alt="Sentinel Dashboard" width="900" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.5);" />
-  <p><i>Real-time AI Investigation Interface showing Reasoning Engine V4.0 in action.</i></p>
+  <img src="screenshot.png" alt="Sentinel Dashboard" width="900" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.5);" />
+  <p><i>Real-time AI Investigation Interface showing Reasoning Engine V4.0 (Grok Intelligence) in action.</i></p>
 </div>
 
 ---
