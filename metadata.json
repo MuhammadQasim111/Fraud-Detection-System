@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel Intelligence - Financial Crime Defense",
+  "description": "An expert financial crime intelligence dashboard that uses 4-layer ML and Gemini-powered reasoning to detect and explain complex fraud patterns in real-time.",
+  "requestFramePermissions": []
+}
